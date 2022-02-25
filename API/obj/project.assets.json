@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\youtu\\Desktop\\avinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\youtu\\Desktop\\dotnet-route\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\youtu\\Desktop\\avinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\youtu\\Desktop\\dotnet-route\\API\\API.csproj",
       "packagesPath": "C:\\Users\\youtu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\youtu\\Desktop\\avinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\youtu\\Desktop\\dotnet-route\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\youtu\\AppData\\Roaming\\NuGet\\NuGet.Config"
