@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\API\\API.csproj": {}
+    "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\API\\API.csproj": {
+    "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\API\\API.csproj",
+        "projectPath": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\api\\API.csproj",
         "packagesPath": "C:\\Users\\youtu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\API\\obj\\",
+        "outputPath": "C:\\Users\\youtu\\Desktop\\Dev Projects\\dotnet-route\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\youtu\\AppData\\Roaming\\NuGet\\NuGet.Config"
